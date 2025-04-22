@@ -1,1 +1,1 @@
-# Owner-avatar-LOGICA_E_JAVASCRIPT_Desafio_de_Projeto2_Calculadora_Partidas_Ranqueadas
+# LOGICA_E_JAVASCRIPT_Desafio_de_Projeto2_Calculadora_Partidas_Ranqueadas
